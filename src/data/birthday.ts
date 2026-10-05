@@ -47,7 +47,7 @@ Wishing you the happiest birthday and an amazing year ahead! 💗`,
     "You're doing better than you think.",
     "You're short af ngl",
   ],
-  easterEgg: "You found the secret star! [HIDDEN MESSAGE] 🌟",
+  easterEgg: "You found the secret star! Idk just added it for the love of the game ly tho. 🌟",
   // musicFile: put an mp3 in public/audio/ and write its name, e.g. "music.mp3". Sound is always off until she taps the toggle.
   sound: { musicFile: "" },
   finale: {
